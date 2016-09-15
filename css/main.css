@@ -1,0 +1,16 @@
+.label_act1{
+	font-size: 14px;
+	font-weight: 700;
+	color: #eee222;
+}
+.label_act1:hover{
+	font-size: 10px;
+	font-weight: 500;
+	color: #fff;
+}
+#fondo{height:100%; width:100%; background:url(Foto-de-archivo.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
